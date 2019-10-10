@@ -1,0 +1,8 @@
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\bin\Debug\netstandard2.0\Logic.dll
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\bin\Debug\netstandard2.0\Logic.pdb
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\obj\Debug\netstandard2.0\Logic.dll
+D:\Documents\Schule\MC\ascii_combiner\ascii-combiner-exercise-MartinBoehm1\Ascii_Combiner\Logic\obj\Debug\netstandard2.0\Logic.pdb
